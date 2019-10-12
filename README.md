@@ -4,6 +4,8 @@
 ```
 npm install
 ```
+### FInd XYZ result in console
+
 
 ### Compiles and hot-reloads for development
 ```
